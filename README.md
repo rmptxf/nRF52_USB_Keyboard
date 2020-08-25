@@ -1,4 +1,4 @@
-A simple 4 Keys USB keyboard for the **nRF52840-DK**. It can also be ported easilly to other nRF52 SOCs supports the USB.
+A simple 4 Keys USB keyboard. It can also be ported easilly to other nRF52 SOCs supports the USB.
 
 ### nRF5_SDK version supported :
 Versions starting from **v15.3**.
