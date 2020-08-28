@@ -1,4 +1,4 @@
-A simple 4 Keys USB keyboard. It can also be ported easilly to other nRF52 SOCs that supports the USB peripheral.
+A simple 4 Keys USB keyboard.
 
 [**Medium Tutorial**](https://medium.com/@rmptxf/build-a-4-keys-nrf52840-based-usb-keyboard-cfab67e3ea12)
 
