@@ -39,7 +39,7 @@
  */
 
  /*
-    Application : Keyboayd USB application
+    Application : USB Keyboard USB application
     Author : Abdelali Boussetta
  */
 
