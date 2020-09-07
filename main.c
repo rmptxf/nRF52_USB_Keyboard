@@ -302,7 +302,7 @@ static const app_button_cfg_t app_buttons[BUTTONS_NUMBER] =
 // BUTTON_PIN,
 // BUTTONS_ACTIVE_STATE,
 // BUTTON_PULL,
-// are all declared in your components/boards/Ppca10056.h file
+// are all declared in your components/boards/pca10056.h file
 
     {BUTTON_1, BUTTONS_ACTIVE_STATE, BUTTON_PULL, button_event_handler},
     {BUTTON_2, BUTTONS_ACTIVE_STATE, BUTTON_PULL, button_event_handler},
