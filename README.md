@@ -3,7 +3,7 @@ A simple 4 Keys USB keyboard.
 [**Medium Tutorial**](https://medium.com/@rmptxf/build-a-4-keys-nrf52840-based-usb-keyboard-cfab67e3ea12)
 
 ### nRF5_SDK version supported :
-Versions starting from **v15.3**.
+**v15.3** and **v16.0.0**. For **17.2.0** you'll need to perform some updates, or you can just update the ``main.c`` file on the usb composite peripheral exmaple in the v17.2.0 sdk.
 
 ### Supported Development kits : 
 The nRF52840-DK (PCA10056).
